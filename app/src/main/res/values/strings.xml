@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="nota">Nota</string>
+    <string name="listar_notas">Listar Notas</string>
+    <string name="gerenciar_notas">Gerenciar Notas</string>
+
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="editar">Editar</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+
+    <string name="nome">Nome</string>
+    <string name="conteudo">Conteúdo</string>
+
+    <string name="tarefa">Tarefa</string>
+    <string name="listar_tarefas">Listar Tarefas</string>
+    <string name="gerenciar_tarefas">Gerenciar Tarefas</string>
+    <string name="excluir_tarefa_mensagem">Deseja excluir a tarefa?</string>
+
+    <string name="evento">Evento</string>
+    <string name="listar_eventos">Listar Eventos</string>
+    <string name="gerenciar_eventos">Gerenciar Eventos</string>
+    <string name="excluir_evento_mensagem">Deseja excluir o evento?</string>
+
+    <string name="descricao">Descrição</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+
+
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="periodo">Periodo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
